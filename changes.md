@@ -1,4 +1,4 @@
-#  Config Alterations
+# CHANGES
 
 ## Common
 
