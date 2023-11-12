@@ -12,17 +12,7 @@ Changes made to increase rarity since many of the items are very overpowered.
 
 ### Spelunkery
 - **Creative Tab**: disabled > enabled
-
-### Promenade
-- **Disabled spawning for some mobs**: Lush Creeper (Too many creepers), Ducks (Already added by naturalist)
-- **Modified Sunken Skeletons spawn rate**: 20 > 10 (Spawned too frequently)
-- **No Palm trees**: Added by Regions Unexplored already
-- **Decreased generation weight for all biomes**: Where generating to frequently
-
-### Minecells
-- **Disabled recipes for MineCells elevator**: Encourage peeps to use create instead
-- **Reduced portal spawn chance & restricted to biomes with plenty of trees**:  Portals where generating too frequently and generation looks better in denser area where it's covered better. Valid biomes are the **Dark Forest**, **Rainbow Forest (Terrestria)** and **Dense Forests (Terrestria)**
-
+- 
 ### Hybrid Aquatic
 - **Stopped Anglerfish spawning**: Replaced with it's terrifying cousin from Aquamirae
 
