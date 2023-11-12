@@ -1,5 +1,3 @@
-# Alterations
-
 ### Artifacts
 Changes made to increase rarity since many of the items are very overpowered.
 
@@ -54,6 +52,5 @@ Changes made to increase rarity since many of the items are very overpowered.
 ## Known Bugs
 
 - Signs from the following mods when placed will display as oak signs: Regions Unexplored, Natures Spirit. This is a consequence of a debug mod implemented to stop in-correct wood type registries crashing the server. See: [Issue #16 for Natures Spirit](https://github.com/Team-Hibiscus/NatureSpirit/issues/16) for an explanation.
-- Cammies minecarts chains don't render
 - Natures Spirit flowers can be too big causing a weird black box rendering issue
 - Slight texture issue for pocket computers with the ccc resourcepack (Probably wont fix, too small)
