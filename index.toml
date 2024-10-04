@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "e948385136e0f372f4a8b35f04221b4cc5e3786ce498fc321a394ad1258dc032"
+hash = "9489e84fa1b95dfaed50d12d01094b6c424124d8153a36303c06b6581d72899f"
 metafile = true
 
 [[files]]
@@ -346,18 +346,8 @@ hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "6f233f2aecb4f82d159117497b0dfc728c13c2acb515e6516de3916997f0a099"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "14e141719b2166b70fc329f620bea34892696f8677127f7181ba2533519e8c56"
 metafile = true
 
 [[files]]
@@ -403,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "8b7116df5d0e1e4af28ad8e3c2011840713efa3c235f9b058455b04830920a5b"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "429670c72daf867e8d12bf268cffb24ef8626c954186c9e3a4d580bc3b33f668"
 metafile = true
 
 [[files]]
@@ -742,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "74cf81cd71073f5e4a31ceded3dc5c6220d80bcc25e15f371738b9d720c5a30c"
+hash = "3f46e3aeb46331bd999c099da6b07a5d161ccbd791b6f8317feaa3a8a4275d45"
 metafile = true
 
 [[files]]
