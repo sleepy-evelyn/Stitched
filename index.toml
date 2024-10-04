@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "09bc2ef1192e15ab781cb990cfff7f760bcc74470a383cb2292656b3005af7ee"
-
-[[files]]
-file = "README.md"
-hash = "20a1b12093494bd0c8ba7d153464c9d886286114a1ea09aeaf756bc5317bb1f1"
-
-[[files]]
-file = "changes.md"
-hash = "87eb74fe8c99e5d7a9b5f3ab04206afc59595f74141a5d937d6c55b8861f9864"
-
-[[files]]
 file = "mods/affinity.pw.toml"
 hash = "a530f6bc8c30c912741e9881a4582354e5a191988aeab0d99e59e042b0a8a21d"
 metafile = true
