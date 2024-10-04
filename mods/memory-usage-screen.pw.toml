@@ -1,0 +1,13 @@
+name = "Memory Usage Screen"
+filename = "memoryusagescreen-fabric-mc1.20-1.9.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/n9mFA0ax/versions/La0DVHZr/memoryusagescreen-fabric-mc1.20-1.9.0.jar"
+hash-format = "sha512"
+hash = "68840590555b5e2274d7521b88f6ecf45cfbd29a91d558bfecb993dada0828fcda1c692662aeba47ab4bf87cfe800af4902bc6fe9360bd510d00a8d4f7f0585d"
+
+[update]
+[update.modrinth]
+mod-id = "n9mFA0ax"
+version = "La0DVHZr"

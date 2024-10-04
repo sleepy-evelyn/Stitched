@@ -1,0 +1,13 @@
+name = "Stitched"
+author = "Sleepy_Evelyn"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "123873e9fea1078e44f832d541d21008e178574b40e1c0c7244e10aa8e4fc907"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4"

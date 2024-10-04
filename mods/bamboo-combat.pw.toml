@@ -1,0 +1,13 @@
+name = "Bamboo Combat"
+filename = "Bamboo_Combat-1.20.x-v1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DwwbOcmt/versions/RkZcltZG/Bamboo_Combat-1.20.x-v1.0.5.jar"
+hash-format = "sha512"
+hash = "fb9400163887b53e4738d1151095f2bf6698aec23a19f6a2e3051e3e6c3bf06d9e3bdbb2c5885614c61acd62f0d887d329cf69c62a8fdcc6a0281a80f10648b8"
+
+[update]
+[update.modrinth]
+mod-id = "DwwbOcmt"
+version = "RkZcltZG"

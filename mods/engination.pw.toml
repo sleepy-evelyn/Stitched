@@ -1,0 +1,13 @@
+name = "Engination"
+filename = "Engination-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JpAGYwCM/versions/gREJlMjR/Engination-2.1.3.jar"
+hash-format = "sha512"
+hash = "93cc417571766051dc3c9fd0b21ac160354938a798b3e870f85b358e6849f40c5f052813a3ea58639edb5e6701d43c1a924d5c48e2b62834879078ed1aea1d89"
+
+[update]
+[update.modrinth]
+mod-id = "JpAGYwCM"
+version = "gREJlMjR"

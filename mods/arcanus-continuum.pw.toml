@@ -1,0 +1,13 @@
+name = "Arcanus: Continuum"
+filename = "arcanus-continuum-0.108.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnnRjucf/versions/9t04yQSI/arcanus-continuum-0.108.1.jar"
+hash-format = "sha512"
+hash = "8213953de1a8564790bccd4a33a7e881db22f8825ebd056471f7c4b6db254d2d7fbad803e316278b7aa11fb98e38f461b01acfbe7eb550d7e28776eafdce6da9"
+
+[update]
+[update.modrinth]
+mod-id = "UnnRjucf"
+version = "9t04yQSI"

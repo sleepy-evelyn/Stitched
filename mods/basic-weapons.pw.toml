@@ -1,0 +1,13 @@
+name = "Basic Weapons"
+filename = "basicweapons-1.2.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sc2Pektv/versions/h0WwUNRU/basicweapons-1.2.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "0335668b26e0b20ca135cbcc75c134d7bdcdabe56ea11496f32400911ec06ff711146fd53b8e79620c9bd2380445255d9e0dfd0968078f401c75a91c4fcf0c8d"
+
+[update]
+[update.modrinth]
+mod-id = "sc2Pektv"
+version = "h0WwUNRU"

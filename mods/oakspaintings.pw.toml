@@ -1,0 +1,13 @@
+name = "OaksPaintings"
+filename = "oaks_painting_v1.0 (Fabric 1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hnaFUD7/versions/ALetHNK0/oaks_painting_v1.0%20%28Fabric%201.20.1%29.jar"
+hash-format = "sha512"
+hash = "b86d274f0027802dcf37cfd0ac565c46fb028e92e382550f0285cc63e7761f37bd3a4a0d4dd70476bb15bd73cf69ed11feb3786d9f103017c7711dfb75f861e6"
+
+[update]
+[update.modrinth]
+mod-id = "6hnaFUD7"
+version = "ALetHNK0"
