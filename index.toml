@@ -358,6 +358,11 @@ hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "6f233f2aecb4f82d159117497b0dfc728c13c2acb515e6516de3916997f0a099"
 metafile = true
@@ -468,6 +473,11 @@ hash = "efef7ffb6f0a7d48b9e9fc1e2c4f234ad5e0213e33564ae8af7c1f2bbcf63a31"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "16ba7c4b7b7b9c4997f73f10adfc282721b530806f754391ab096e9f9f7a98e3"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
@@ -530,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
@@ -710,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "43a85795afb0c789af3286172ae1688c410015972a87545872effddffdb5c509"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "62b1365a5252bbe60e6305e9342693daa69cfa818c8eb7b95d6495110ac7c147"
 metafile = true
 
 [[files]]

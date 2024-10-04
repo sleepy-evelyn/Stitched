@@ -1,0 +1,8 @@
+# Files
+README.md
+packwiz
+.gitignore
+
+# Folders
+/.git
+/releases
