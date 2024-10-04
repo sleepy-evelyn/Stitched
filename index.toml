@@ -451,6 +451,11 @@ hash = "16ba7c4b7b7b9c4997f73f10adfc282721b530806f754391ab096e9f9f7a98e3"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
